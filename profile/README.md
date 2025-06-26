@@ -1,5 +1,5 @@
 [@eggmong](https://github.com/eggmong)  과 [@BeautyfullCastle](https://github.com/BeautyfullCastle) 이 운영하는 그룹 입니다.
-- 개발 했던 게임 : <Hamster is Free!> (비공개)
+- 개발 했던 게임 : <Hamster is Free!> (1년여간 공개 후 현재 비공개 전환)
 
 - Client : [eggmong](https://github.com/eggmong)
   - 게임 컨텐츠 개발 담당
